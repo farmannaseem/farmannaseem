@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm Farman Naseem!  
+🎯 Frontend Developer | React.js | MERN Stack Enthusiast  
 
-<!--
-**farmannaseem/farmannaseem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Tech Stack  
+- 💻 Languages: JavaScript, HTML, CSS  
+- 🌐 Frontend: React.js, Bootstrap, TailwindCSS  
+- 🚀 Backend: Node.js, Express.js  
+- 📊 Database: MongoDB  
+- 🛠️ Tools: Git, VS Code, Postman  
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats  
+![Farman's GitHub stats](https://github-readme-stats.vercel.app/api?username=farmannaseem&show_icons=true&theme=radical)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Notable Projects  
+- **🛒 Shopping Website:** Full-stack e-commerce app with cart functionality  
+- **☁️ Weather App:** React app using OpenWeatherMap API  
+- **🎥 Movie Watchlist:** React app with local storage persistence  
+
+## 📫 Connect with Me  
+- 🔗 [LinkedIn](https://linkedin.com/in/farman-naseem-83bb13229)  
+- 💻 [GitHub](https://github.com/farmannaseem)  
+
