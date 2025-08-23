@@ -1,22 +1,35 @@
-# 👋 Hello, I'm Farman Naseem!  
-🎯 Frontend Developer | React.js | MERN Stack Enthusiast  
+👋 Hello, I'm Farman Naseem!
 
-## 🔥 Tech Stack  
-- 💻 Languages: JavaScript, HTML, CSS  
-- 🌐 Frontend: React.js, Bootstrap, TailwindCSS  
-- 🚀 Backend: Node.js, Express.js  
-- 📊 Database: MongoDB  
-- 🛠️ Tools: Git, VS Code, Postman  
+🎯 Frontend Developer | React.js | MERN Stack Enthusiast
 
-## 📈 GitHub Stats  
-![Farman's GitHub stats](https://github-readme-stats.vercel.app/api?username=farmannaseem&show_icons=true&theme=radical)  
+🔥 Tech Stack
 
-## 🚀 Notable Projects  
-- **🛒 Shopping Website:** Full-stack e-commerce app with cart functionality  
-- **☁️ Weather App:** React app using OpenWeatherMap API  
-- **🎥 Movie Ticket Web Application:** React app with local storage persistence
--  Binance Dashboard Create a Dynamic Binance Dashboard Using React
-## 📫 Connect with Me  
-- 🔗 [LinkedIn](https://linkedin.com/in/farman-naseem-83bb13229)  
-- 💻 [GitHub](https://github.com/farmannaseem)  
+💻 Languages: JavaScript (ES6+), HTML5, CSS3, SQL
 
+🌐 Frontend: React.js, Redux, Bootstrap 5, Tailwind CSS
+
+🚀 Backend: Node.js, Express.js, REST APIs, JWT Authentication
+
+📊 Database: MongoDB
+
+🛠️ Tools: Git, GitHub, VS Code, Postman, Netlify, Vercel
+
+📈 GitHub Stats
+
+🚀 Notable Projects
+
+🛒 E-Commerce Web Application: MERN stack app with product browsing, cart, checkout, and JWT-based authentication using Redux for state management.
+
+☁️ Weather Forecasting App: React app with real-time city search, 5-day forecast, and temperature unit conversion using OpenWeatherMap API.
+
+🎬 Online Movie Ticket Booking System: Real-time seat booking system with authentication, MongoDB backend, and responsive UI using Tailwind CSS.
+
+📊 Binance Investment Dashboard: Dynamic React dashboard fetching crypto wallet data using BscScan API, deployed on Vercel with CI/CD.
+
+📫 Connect with Me
+
+📧 farmannaseem789@gmail.com
+
+🔗 LinkedIn
+
+💻 GitHub
