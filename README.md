@@ -1,4 +1,4 @@
-##🚀 Notable Projects
+## 🚀 Notable Projects
 
 🛒 E-Commerce Web Application: MERN stack app with product browsing, cart, checkout, and JWT-based authentication using Redux for state management.
 
